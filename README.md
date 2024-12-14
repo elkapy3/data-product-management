@@ -1,4 +1,4 @@
-# dataproductmanagement
+# Data Product Management
 This project builds 
 
 a **scalable data product** using real-world healthcare data. 
